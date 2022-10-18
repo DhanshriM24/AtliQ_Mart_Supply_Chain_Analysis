@@ -29,7 +29,8 @@ We are not available to complete Target for IF%, OT%, and OTIF% delivery.OTIF% p
 Vadodara has poorest delivery in all IF, OT and OTIF as compare to Ahmedabad and Surat.<br>
 We provides best delivery service to Propel Mart and poorest to Coolblue.<br>
 
-![p2](https://user-images.githubusercontent.com/91377756/196384125-9f1aa5c6-a3b0-47e0-a11e-8990686995fb.png)
+![p22](https://user-images.githubusercontent.com/91377756/196403996-a8205ccf-b484-4d4a-a609-bafa3313ae22.png)
+
 
 Page 2 :<br>
 AM Biscuits 750 has the highest LIFR,so we conclude that AM Biscuits 750 is supplied more in IF delivery and AM Butter 250gm has lowest LIFR.VOFR is almost similar to all products.<br>
