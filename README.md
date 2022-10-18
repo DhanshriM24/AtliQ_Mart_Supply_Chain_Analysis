@@ -3,10 +3,6 @@
 This is my submission of Code Basics Challenge 2
 #codebasicsresumeprojectchallenge
 
-Link to [Interactive Dashboard]
-
-Link to [Presentation Video]
-
 Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 
 ## Problem Statement:
